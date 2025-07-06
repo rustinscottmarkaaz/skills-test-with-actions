@@ -29,6 +29,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 ### :keyboard: Activity: Add branch protections
 
+
 1. Go to **Branches** settings. You can navigate to that page manually by selecting the right-most tab in the top of the repository called **Settings** and then clicking **Branches**.
 1. Click **Add classic branch protection rule** under "Branch protection rules".
 1. Type `main` in **Branch name pattern**.
