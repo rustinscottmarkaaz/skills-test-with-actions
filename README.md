@@ -27,7 +27,7 @@ Take a look at the merge box, you'll notice you can merge this even though the r
 
 Protected branches ensure that collaborators on your repository cannot make irrevocable changes to branches. Enabling protected branches also allows you to enable other optional checks and requirements, like required status checks and required reviews.
 
-### :keyboard: Activity: Add branch protections
+### :keyboard: Activity: Add branch protections - new
 
 
 1. Go to **Branches** settings. You can navigate to that page manually by selecting the right-most tab in the top of the repository called **Settings** and then clicking **Branches**.
